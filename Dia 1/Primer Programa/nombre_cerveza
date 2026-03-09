@@ -1,0 +1,1 @@
+print('El nombre de tu cerveza es: '+ '"' + input("¿Que dia es hoy?: ") +' '+ input("Tu color favorito: ") + '"')
